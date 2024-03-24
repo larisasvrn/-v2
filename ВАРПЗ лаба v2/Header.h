@@ -2,7 +2,7 @@
 #include <fstream>
 using namespace std;
 
-// Максим лох
+// Максим лох x2
 
 /*
 * Метод Рунге-кутта
