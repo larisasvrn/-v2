@@ -26,5 +26,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="input2.txt" />
+    <Text Include="input1.txt" />
   </ItemGroup>
 </Project>
